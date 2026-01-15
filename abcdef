@@ -1,0 +1,13 @@
+<div class="game-wrapper">
+  <div id="game-container">
+    <div id="score">SCORE: 0</div>
+    <div id="player"></div>
+    <div class="ground"></div>
+    
+    <div id="overlay">
+      <h1 id="title">NEON RUNNER ULTIMATE</h1>
+      <p>SPACE or CLICK to 4-STEP JUMP<br>Collect Coins for Invincibility!</p>
+      <button id="start-btn">GAME START</button>
+    </div>
+  </div>
+</div>
